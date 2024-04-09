@@ -26,4 +26,4 @@ This project aims to create a simple and efficient blog website using modern web
 - **Deployment**: The website is deployed automatically on Vercel, ensuring rapid deployment and scalability.
 ## 📌 Design
 
-https://excalidraw.com/
+[https://excalidraw.com/](https://excalidraw.com/#json=iEWYIvSvPwb4Cme5ERYWP,MmRUpSSI6-HKVgKQWfb2aw)
