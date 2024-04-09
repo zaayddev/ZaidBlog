@@ -1,9 +1,30 @@
-# Sanity Clean Content Studio
+# 🚀 ZaidBlog
 
-Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
+This project is a small blog website built using Next.js for the frontend, Sanity.io for the content management system, and deployed on Vercel.
 
-Now you can do the following things:
 
-- [Read “getting started” in the docs](https://www.sanity.io/docs/introduction/getting-started?utm_source=readme)
-- [Join the community Slack](https://slack.sanity.io/?utm_source=readme)
-- [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
+
+![Logo](https://a.ltrbxd.com/logos/letterboxd-dots-neg-tight.png)
+## 📭 Demo
+
+https://zaidblog.vercel.app/
+
+## 💻 Introduction
+
+This project aims to create a simple and efficient blog website using modern web technologies. It leverages the following technologies:
+
+- **Next.js**: A React framework for building server-rendered applications.
+- **Sanity.io**: A headless CMS that provides structured content for our blog posts.
+- **Vercel**: A cloud platform for static sites and serverless functions, perfect for deploying Next.js applications.
+
+## 📄 Features
+
+- **Dynamic Routing**: Next.js provides seamless client-side routing with support for dynamic URLs.
+- **SEO Optimization**: Implementing meta tags and ensuring proper HTML semantics for better search engine visibility.
+
+- **Content Management**: Using Sanity.io for managing blog content, including posts, images, and metadata.
+- **Deployment**: The website is deployed automatically on Vercel, ensuring rapid deployment and scalability.
+## 📌 Design
+
+https://excalidraw.com/
+
